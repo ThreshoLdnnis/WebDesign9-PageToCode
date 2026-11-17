@@ -1,6 +1,6 @@
 # WebDesign9-PageToCode
 
-![Distill 页面预览](./assets/preview.jpg)
+![Distill 页面封面](./assets/cover.png)
 
 一个以「Built for people. Read by machines.」为主题的 Distill 交互页面。六张 Kessler 迷你网站沿传送带移动，经过橙色扫描线后，转换为带行号和语法高亮的深色 HTML 编辑器面板；粒子溶解与 token 计数同步变化。
 
